@@ -1,0 +1,17 @@
+{
+  "name": "iniciando_com_npm",
+  "version": "1.0.0",
+  "description": "Se reciclando com a rockeatSeat",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "learning nodejs and npm"
+  ],
+  "author": "Fabio Gilberto",
+  "license": "MIT",
+  "dependencies": {
+    "cfonts": "^2.9.3"
+  }
+}
